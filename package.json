@@ -4,7 +4,7 @@
   "description": "This is simple node application and deployed in Heroku",
   "main": "index.js",
   "scripts": {
-    "web": "node start.js"
+    "start": "npm run build && node index.js"
   },
   "repository": {
     "type": "git",
