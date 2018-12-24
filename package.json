@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/heberian/node-heroku/issues"
   },
-  "homepage": "https://github.com/heberian/node-heroku#readme"
+  "homepage": "https://github.com/heberian/node-heroku#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
